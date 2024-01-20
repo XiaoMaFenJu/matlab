@@ -1,4 +1,5 @@
 %%
+% This show how to plot borders of China provinces in matlab
 %data in
 clc;
 fnshp_P='D:\matlabproject\region.shp';
